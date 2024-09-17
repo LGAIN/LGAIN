@@ -34,6 +34,8 @@
           <br>
 
 [![Solved.ac heli1420](http://mazassumnida.wtf/api/v2/generate_badge?boj=heli1420)](https://solved.ac/heli1420)
+&ensp;
+![LGAIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=LGAIN&show_icons=true&theme=transport)
 <br> 
 <div align= "center"> 
       <a href="https://hits.seeyoufarm.com"> 
