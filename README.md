@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello%20World!%20%20I'm%20Gain😆&animation=&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center">
-    <h2 > 🛠️ Tech Stacks </h2> <br> 
+<!--     <h2 > 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&&logo=django&logoColor=white"/> 
@@ -25,7 +25,7 @@
         <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
           </div>
-    </div>
+    </div> -->
     <div align= "center">
     <h2 > 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:gainlee1420@gmail.com> 
